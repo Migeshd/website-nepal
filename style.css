@@ -1,0 +1,25 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap'); 
+.anchor{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 20px;
+}
+.custom-carousel{
+    height: 545px;
+}
+.custom-card{
+    height: 250px;
+}
+.custom-carda{
+    height: 300px;
+}
+.cardthird{
+    height: 300px;
+}
+.cardthird img{
+    height: 300px;
+    width: 100%;
+}
+.custom-cardb{
+    height: 450px;
+}
